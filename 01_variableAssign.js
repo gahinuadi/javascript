@@ -4,10 +4,10 @@
  console.log("FullName:",FullName);
 
  var FullName = "Gahininath Adalinge";
- console.log("FullName:", FullName);
+ console.log("Full  Name:", FullName);
 
  var FullName = "Gahininath Annaso Adalinge";
- console.log("CompleteName:",FullName);
+ console.log("Complete Name:",FullName);
 
  var myLove = "I Love Only JS";
  console.log(myLove);
@@ -21,9 +21,12 @@
  var isMarried = "No";
 
  console.log("First Name:",firstName);
- console.log("Last Name",lastName);
- console.log("Age",age);
- console.log("Adress",adress);
- console.log("Pin Code",pinCode);
- console.log("Gender",gender);
- console.log("Is Married",isMarried);
+ console.log("Last Name:",lastName);
+ console.log("Age:",age);
+ console.log("Adress:",adress);
+ console.log("Pin Code:",pinCode);
+ console.log("Gender:",gender);
+ console.log("Is Married:",isMarried);
+
+
+ 
